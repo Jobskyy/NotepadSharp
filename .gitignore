@@ -3,6 +3,9 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+/.idea/.idea.NotepadSharp/.idea/.gitignore
+/.idea/.idea.NotepadSharp/.idea/codeStyles/codeStyleConfig.xml
+/.idea/.idea.NotepadSharp/.idea/misc.xml
 /.idea/.idea.NotepadSharp/.idea/codeStyles/codeStyleConfig.xml
 /.idea/.idea.NotepadSharp/.idea/shelf/Uncommitted_changes_before_Update_at_09_12_2020_20_16_[Default_Changelist]/shelved.patch
 /.idea/.idea.NotepadSharp/.idea/shelf/Uncommitted_changes_before_Update_at_09_12_2020_20_18_[Default_Changelist]/shelved.patch

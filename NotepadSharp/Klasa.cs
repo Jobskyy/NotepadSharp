@@ -7,7 +7,7 @@
 
         public Klasa()
         {
-            Nazwa = "jakaś nazwa";
+            Nazwa = "Zaraz swieta";
         }
     }
 }
