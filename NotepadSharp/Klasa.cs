@@ -6,6 +6,7 @@
         public Klasa()
         {
             Nazwa = "jakaś nazwa";
+            private string Paueu = "Jest gupi"; 
         }
     }
 }
